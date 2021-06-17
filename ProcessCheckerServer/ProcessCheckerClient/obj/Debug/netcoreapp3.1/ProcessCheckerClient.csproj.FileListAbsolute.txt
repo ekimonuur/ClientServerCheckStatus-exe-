@@ -1,0 +1,12 @@
+C:\Users\Onur\source\repos\ProcessCheckerServer\ProcessCheckerClient\bin\Debug\netcoreapp3.1\ProcessCheckerClient.exe
+C:\Users\Onur\source\repos\ProcessCheckerServer\ProcessCheckerClient\bin\Debug\netcoreapp3.1\ProcessCheckerClient.deps.json
+C:\Users\Onur\source\repos\ProcessCheckerServer\ProcessCheckerClient\bin\Debug\netcoreapp3.1\ProcessCheckerClient.runtimeconfig.json
+C:\Users\Onur\source\repos\ProcessCheckerServer\ProcessCheckerClient\bin\Debug\netcoreapp3.1\ProcessCheckerClient.runtimeconfig.dev.json
+C:\Users\Onur\source\repos\ProcessCheckerServer\ProcessCheckerClient\bin\Debug\netcoreapp3.1\ProcessCheckerClient.dll
+C:\Users\Onur\source\repos\ProcessCheckerServer\ProcessCheckerClient\bin\Debug\netcoreapp3.1\ProcessCheckerClient.pdb
+C:\Users\Onur\source\repos\ProcessCheckerServer\ProcessCheckerClient\obj\Debug\netcoreapp3.1\ProcessCheckerClient.AssemblyInfoInputs.cache
+C:\Users\Onur\source\repos\ProcessCheckerServer\ProcessCheckerClient\obj\Debug\netcoreapp3.1\ProcessCheckerClient.AssemblyInfo.cs
+C:\Users\Onur\source\repos\ProcessCheckerServer\ProcessCheckerClient\obj\Debug\netcoreapp3.1\ProcessCheckerClient.csproj.CoreCompileInputs.cache
+C:\Users\Onur\source\repos\ProcessCheckerServer\ProcessCheckerClient\obj\Debug\netcoreapp3.1\ProcessCheckerClient.dll
+C:\Users\Onur\source\repos\ProcessCheckerServer\ProcessCheckerClient\obj\Debug\netcoreapp3.1\ProcessCheckerClient.pdb
+C:\Users\Onur\source\repos\ProcessCheckerServer\ProcessCheckerClient\obj\Debug\netcoreapp3.1\ProcessCheckerClient.genruntimeconfig.cache
